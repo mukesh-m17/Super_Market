@@ -1,4 +1,4 @@
-import { CATEGORIES } from "../data/store";
+import { CATEGORIES } from "../data/Store";
 
 export default function Categories() {
   return (

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import { PRODUCTS } from "../data/store";
+import { PRODUCTS } from "../data/Store";
 import ProductCard from "./ProductCard";
 import QuickViewModal from "./QuickViewModal";
 

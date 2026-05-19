@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { PRODUCTS } from "../data/store";
+import { PRODUCTS } from "../data/Store";
 
 export default function FeaturedProducts() {
   return (

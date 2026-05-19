@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { STORE_METRICS } from "../data/store";
+import { STORE_METRICS } from "../data/Store";
 
 export default function Stats() {
   return (
