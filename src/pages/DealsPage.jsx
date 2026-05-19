@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
-import { DEALS } from "../data/store";
+import { DEALS } from "../data/Store";
 import { useToast } from "../context/ToastContext";
 
 function DealModal({ deal, onClose }) {
