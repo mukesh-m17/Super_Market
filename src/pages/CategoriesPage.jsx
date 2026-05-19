@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
-import { CATEGORIES } from "../data/store";
+import { CATEGORIES } from "../data/Store";
 
 export default function CategoriesPage() {
   const navigate = useNavigate();
